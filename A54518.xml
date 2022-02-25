@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pamphlet of the lyar discovered (Printed Anno 1678), in A brief reply to a malitious sheet spread in and about Hartford, &amp;c. called The voice of the light, &amp;c.</title>
+            <author>Peterson, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54518</idno>
+            <idno type="STC">Wing P1729</idno>
+            <idno type="STC">ESTC R33388</idno>
+            <idno type="EEBO-CITATION">13286828</idno>
+            <idno type="OCLC">ocm 13286828</idno>
+            <idno type="VID">98817</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54518)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98817)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1039:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pamphlet of the lyar discovered (Printed Anno 1678), in A brief reply to a malitious sheet spread in and about Hartford, &amp;c. called The voice of the light, &amp;c.</title>
+                  <author>Peterson, James.</author>
+               </titleStmt>
+               <extent>[1], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: James Peterson.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Tithes.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98817:1"/>
+            <pb facs="tcp:98817:1" rendition="simple:additions"/>
+            <p>THE PAMPHLET OF THE LYAR DISCOVERED, (Printed <hi>Anno</hi> 1678) IN A Brief Reply to a Malitious Sheet ſpread in and about <hi>Hartford,</hi> &amp;c.</p>
+            <p>CALLED The Voice of the Light, <hi>&amp;c.</hi>
+            </p>
+            <q>
+               <bibl>Ezek. <hi>34.2, 3.</hi>
+               </bibl>
+               <p>Wo to the Shepherds of <hi>Iſrael</hi> that do feed themſelves, ſhould not the Shepherds feed the flock?</p>
+            </q>
+            <q>
+               <p>The Heads thereof judge for reward, and the Prieſts thereof teach for hire, and the Prophets thereof divine for Money, &amp;c.</p>
+               <bibl>
+                  <hi>Micah 3.11.</hi>
+               </bibl>
+            </q>
+            <p>Printed <hi>Anno Domini</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:98817:2"/>
+            <head>The voice of the Light, <hi>&amp;c.</hi>
+            </head>
+            <p>THe ſimple Reader at the firſt view may take the Pam<g ref="char:EOLhyphen"/>phleter to be a Friend to, and a Lover of the Light; but on more ſerious conſideration will find him to be as great an Enemy to the true Light, as ill de<g ref="char:EOLhyphen"/>ſerving that maintenance he pleads for, were it al<g ref="char:EOLhyphen"/>lowable to any in the Goſpel times; which it is not.</p>
+            <p>I cannot compare his dealing with the Light, and his mangling of it to any thing more pertinently, then to the <hi>Levites tearing and dividing his Concubine,</hi> Judges 19.29, 30. <hi>and then ſent her through all the Coaſts or quarters of Iſrael,</hi> as he hath diſperſed his abuſe of the Light amongſt his Neighbours <hi>or quarters,</hi> from whence he ſeeks his gain, as the falſe Prophets did of Old. And I doubt not but the ſerious Reader when <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e conſiders his nonſence on the one hand, and his violence to the Light on the other, he will ſay to his Neighbours, as the <hi>Iſraelites did of the mangled Concubine,</hi> viz. <hi>And all that ſaw it, ſaid, there were no ſuch things done, or ſeen, ſince the time that the Children of</hi> Iſrael <hi>came up from the Land of</hi> Egypt, <hi>unto this day.</hi>
+            </p>
+            <p>
+               <hi>Conſider the matter, conſult, and give Sentence.</hi>
+            </p>
+            <p>The whole Pamphlet comes under two heads; Firſt, ſome ſeem<g ref="char:EOLhyphen"/>ing Arguments to prove Tythes due to Miniſters of the Goſpel, Se<g ref="char:EOLhyphen"/>condly, his groſs abuſe and miſ-application of the Light to prove the ſame.</p>
+            <p>I ſhall briefly as they fall reply to them both; as he begins, ſo he ends with a lye, and throughout the whole Pamphlet thou wilt find it hard for him to forgo his lies ſerviceable to his Intereſt, and de<g ref="char:EOLhyphen"/>ſigns. He begins,</p>
+            <p>
+               <hi>Thus ſaith the Light Wo unto you</hi> Quakers, <hi>for yee are an evil and perverſe Generation; a Generation that walk not in the Light, but love your own darkneſs better then the Light; you honour the Light with your lips, but your hearts and ways are far from it.</hi>
+            </p>
+            <pb n="2" facs="tcp:98817:2"/>
+            <p>Now this is a blaſphemous lye, for he immitates the ſtile of the Holy Scripture, and there is no ſuch place of <hi>Scripture,</hi> and addeth and unites his own malicious words with the words of the <hi>Scripture,</hi> and Prints them in the ſame Character with the words of Scripture, as if purpoſed (intended) to make the Reader believe they are all the very words of the Scripture; what groſs abomination is this.</p>
+            <p>And in like manner he ends his Pamphlet, <hi>(viz.) So that thus ſaith the Light, Repent and return; O ye</hi> Quakers; <hi>for oppreſſion and violence are in your hands, and the ways of Peace, and of Juſtice you have not known; turn your eyes to the Light, and your hearts to Righteouſneſs, and judgement, that you may do Juſtice, and love mercy, and walk as the children of the true Light, that enlightneth every one that cometh into the World,</hi> Amen, <hi>ſaith the Light.</hi> Either he ſpeaks theſe words ſcof<g ref="char:EOLhyphen"/>fingly, or ſeriouſly; if ſcoffingly, then he man feſts what a Miniſter of Satan (and not of Chriſts) he is; if ſeriouſly, then he manifeſts what a blaſphemer he is, for to take that to himſelf which is one of Gods glorious at tributes (for it is ſaid, <hi>God is light</hi>) is blaſphemy. Now his beginning and ending words are not found written in <hi>Scripture,</hi> and no body I ſuppoſe takes this Pamphleter for a Prophet, and that he hath things immediately revealed to him from God, for himſelf (with the reſt of his Brethren) I queſtion not, believes immediate re<g ref="char:EOLhyphen"/>velation to be ceaſed. Now then how can this Pamphleter ſay at the beginning of his Pamphlet, and alſo at the end of the ſame, <hi>Thus ſaith the Light,</hi> and quit himſelf from lying, and blaſphemy: it becomes him to conſider.</p>
+            <p>Thus Reader from his beginning and ending thou mayſt gueſs what ſtuff thou art like to meet withal in the middle. For the Author him<g ref="char:EOLhyphen"/>ſelf thou mayſt take to be a <hi>Mendicant</hi> — if thou wilt, becauſe he lays ſo much ſtreſs upon the old Crutches, <hi>Petitio principii,</hi> for it is the beſt bottom too he hath to ſtand upon <hi>(viz.)</hi> to take that for granted which is denyed, that ſo he may deceive his Reader with leſs ſuſpition, and this generally is the foundation of the whole ſheet; but now I come to his Arguments to prove the right of Tythes under the Goſpel.</p>
+            <p>His firſt Argument is taken from the National Laws, which ſaith he, <hi>preſerves what we have, and makes it ours, and that the ſame Laws that made the ninth part of increaſe yours, give the tenth to the Miniſter, or Rector,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> Here he takes for granted which is denyed, for the Laws do not make any man a right that had none before, it only preſerves or
+<pb n="3" facs="tcp:98817:3"/>conſerves to every man his right. So that this Argument ſerves only to prove himſelf ignorant both of the Law of God, and of the Na<g ref="char:EOLhyphen"/>tional Law alſo; for all thoſe Laws that preſerve <hi>meum &amp; tuum,</hi> mens rights and properties, do imply the right of the whole ten parts to be in the owner thereof, therefore he muſt give or ſet out the tenth part as his voluntary act, elſe the Miniſter or Rector by Law cannot take it; ſo that the very National Law ſuppoſes the right of property to be in the owner or occupier of the Land, and it is in his power to give the Miniſter or Rector (as he ſpeaks) much or little, or not at all; for if he Plow he may give much, if he Graſe then he may give little; or if he let it lye, lag or fallow, or turn it into a Warren or Park of wild Beaſts, then nothing at all. Now if the Pamphleter was not a ſcoffer at the Light, he might ſee how the Law of the Nation hath not fixed the right of property to be in the <hi>Miniſter or Rector</hi> as aforeſaid. Neither can he ſue in right of property by a common Writ <hi>(quare clauſum fregit,)</hi> which ſuppoſeth every mans property to be incloſed by the Law, though it lies in the common field, but muſt ſue upon the Statute of treble damages; which alſo ſaith Tythes are to be ſued for in the Eccleſiaſtical Courts.</p>
+            <p>
+               <hi>The Light</hi> (ſaith, the Pamphleter) ſaith <hi>thou ſhalt uot ſteal,</hi> &amp;c. thoſe are Thieves and Robbers that pretend to a Right and Title which the Law diſowns, for the Law owns no Title, which is not derived either by Deſcent, Gift, or Purchaſe: by Deſcent the Miniſter or Rector, (ſo called) cannot legally claim them, for that cannot de<g ref="char:EOLhyphen"/>ſcend to another which is not <hi>[in rerum natura]</hi> as the increaſe and renuing of my land by my labour, is not; and therefore that cannot deſcend to another which never was in being it ſelf; and if I Plow not, no Corn will grow, and I Mowe not if no Hay is made; and by Gift he can have no Title, becauſe <hi>Nemo dat quod non habet, i. e.</hi> no man can give that which was never his to beſtow: as the labour of the Child yet unborn: And by Purchaſe he cannot claim it, for the ſame reaſons alſo; and if a Father ſhould Sell and inſlave his Child without his Childs privity or conſent, the Law of <hi>England</hi> diſowns ſuch ſlavery: And therefore when <hi>England</hi> turn'd Chriſtian, it diſ<g ref="char:EOLhyphen"/>owned all thoſe Laws and Cuſtoms and Villinages that were before. And if the <hi>Whites</hi> ſhould turn <hi>Blacks,</hi> and Sell their Children for bondſlaves, yet it is not unlawful for ſuch Children to free themſelves, when they come to a good underſtanding. <hi>Tythe is</hi> no property (as hath been ſaid) until by my own Act I ſet it out, for it cometh not by
+<pb n="4" facs="tcp:98817:3"/>the Land, nor challenge the tenth of the Rent, nor tenth Acre, bu the tenth of the increaſe, renewing and growing in, and upon the Premiſes, <hi>&amp;c.</hi> Thus its manifeſt by the true Light (which the Prieſts ſcorn) that the Miniſter or Rector ſo called hath no Right or Title by Law, without my free Gift or Conſent. But ſaith <hi>the Pamphleter the Seller abates of his Rates, on conſideration that the Lands are Tyth<g ref="char:EOLhyphen"/>able,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> Thoſe that buy Lands the cheaper in times of trouble when great Taxations are laid upon them, that hinders not, but they may, and ought to enjoy them free, when they come to underſtand that ſuch Taxations are unjuſtly or wrongfully laid upon their Land.</p>
+            <p>
+               <hi>The Light,</hi> ſaith the Pamphleter, <hi>ſaith do unto others as you would that they ſhould do unto you,</hi> &amp;c.</p>
+            <p>The <hi>Quakers</hi> ſay ſo too, and affirm the <hi>Pamphleter</hi> to be that unpro<g ref="char:EOLhyphen"/>fitable Servant, or Rector that is guilty of the breach of this com<g ref="char:EOLhyphen"/>mandment who requires Tythes, where he hath done no Service, nor given any Spiritual thing, and would reap where he hath not ſown, and demands dues of them that never reaped any Spiritual benefit by him, and yet claims it by the Law of the Nation, which ſaith quite the contrary <hi>(viz.)</hi> Dr. and Student [an approved Law Book] <hi>Cap.</hi> 4. <hi>p.</hi> 7.8 <hi>The Laws of Princes, the Commandments of Prelates, the Statutes of Commonwealths nor yet the ordinances of the Church, is not righteous, nor obligatory, except it be conſonant to the Law of God, and by ſuch Law of man as is conſonant to the Law of God, it appeareth who hath right to Lands and Goods, and who hath not; for whatever a man hath by ſuch Laws of the Nation, he hath righteouſly: and whatſoever a man hath againſt ſuch Laws, is unrighteouſly had.</hi>
+            </p>
+            <p>Now the Divine right of Tythes being long ſince quitted, and not inſiſted on by the <hi>Pamphleter</hi> himſelf, (as I have heard) hath been denyed openly in <hi>Weſtminſter-Hall;</hi> and now I know not how he can get them, except like the Son of <hi>Belial</hi> mentioned 1 <hi>Sam.</hi> 2.16. who ſaid, If thou wilt not give it me, I will take it by force.</p>
+            <p>And for his Plea of <hi>
+                  <g ref="char:V">Ʋ</g>ſage and Cuſt me,</hi> &amp;c.</p>
+            <p>
+               <hi>Anſ.</hi> All Cuſtoms and Uſages are either good, or bid; now good they cannot be, becauſe they are both againſt the Law of God, and the old Laws of the Land, as is proved before, bid then muſt they needs be; and <hi>[mala couſuetudo abolenda]</hi> ſaith the Lord <hi>Cooke i. e.</hi> bad Cuſtom; ought to be aboliſhed.</p>
+            <pb n="5" facs="tcp:98817:4"/>
+            <p>The Light ſaith the Pamphleter, <hi>tells you that you ſhould give unto</hi> Ceſar <hi>the things that are</hi> Ceſars, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The Pamphleter is ſo concerned with getting his Tythes, that he forgets; or like SATAN purpoſely omits part of the Text, <hi>(viz.) to give to God the things that are Gods;</hi> but it ſeems if he can get <hi>Ceſar</hi> on his ſide, he cares not though God be againſt him, and if he can get the [thing] of Tythes, he matters not what becomes of the things of God; if he hath but the Fleece he cares not what becomes of the Sheep. But the <hi>Quakers light</hi> (as he calls it) teacheth them firſt <hi>to fear God, and then they honour the King.</hi> Firſt, <hi>to give God the things that are Gods, and then to give</hi> Ceſar <hi>the things that are</hi> Ceſars, and when both thoſe are done, no Tythes belong to him as Miniſter or Rector.</p>
+            <p>The reſt of his ſheet is ſtuffed with ſuch nonſence as this; ſometimes charging the Light with what it never ſaid, and ſometimes the <hi>Quakers,</hi> with what they never did, and deals with both as wicked <hi>Ahab</hi> dealt with honeſt <hi>Micaiah,</hi> (viz.) if poſſible he could have forced him, to ſpeak what he would have him to ſay. I find him com<g ref="char:EOLhyphen"/>plaining of his honeſt Neighbours; You, ſaith he, remove my Land<g ref="char:EOLhyphen"/>mark; You, ſaith he, with-hold my Dues, <hi>&amp;c.</hi> juſt like <hi>Athaliah</hi> againſt <hi>Joaſh,</hi> Treaſon, Treaſon, when the will of the Lord was Executing upon her.</p>
+            <p>Let us now for poor peoples ſake conſider, whether the <hi>Quakers</hi> in this day be not juſtified by many of the ancient Martyrs in their days, whobare the like Teſtimony againſt Tythes, as may be ſeen at large in the Book of Martyrs, <hi>(viz.)</hi>
+            </p>
+            <p>
+               <hi>John Wickliffe</hi> in 17. Article charged againſt him in theſe words, <hi>(viz.) That Tythes are pure Alms, and that the Pariſhioners may for of<g ref="char:EOLhyphen"/>fence of their Curates, detain and keep them back, and beſtow them upon others at their own wills and pleaſures.</hi>
+            </p>
+            <p>William Swinderbey <hi>ſaith, that no Prieſt ought to Sell, by Bargain and Covenant, his Ghoſtly travel, ne Prayer, ne Gods Word,</hi> &amp;c. <hi>nor any<g ref="char:EOLhyphen"/>worldly mens reward, to ask or take for theſe, or for any of theſe,</hi> &amp;c.</p>
+            <p>Walter Brute <hi>in theſe words, that Tythes are mere Alms, and in caſe that Curates ſhall be ill, that they ſhall be lawfully beſtowed upon others by the temporal owners, and that a Prieſt receiving by bargain any thing of yearly annuity, is in ſo doing a Schiſmatick,</hi> &amp;c.</p>
+            <p>William Thorpe <hi>ſaith thus, After Chriſts Aſcention, and when the Apoſtles had received the Holy Ghoſt; they Travelled with their hands to
+<pb n="6" facs="tcp:98817:4"/>get their livelyhood, when they might thus do for buſie Preaching; therefore by the example of himſelf, St.</hi> Paul <hi>teaches all the Prieſts of Chriſt to Travel with their hands, when for buſie teaching of the People they might thus do; whoſe Prieſthood God accepteth now, and will do unto the worlds end: and ſaith in the year</hi> 1211. <hi>Pope</hi> Gregory <hi>the Tenth, Ordained new Tythes, firſte to be given to Prieſts in the new Law; but St.</hi> Paul <hi>whoſe example all Prieſts of God ought to follow,</hi> &amp;c. <hi>who wrought with his hands to get his living, and it were good Counſel if all Prieſts took good heed to this Heavenly learning of St.</hi> Paul, <hi>following him here in willful Poverty, nothing charging the People for their bodily livelyhood,</hi> &amp;c. <hi>for certain in whatſoever Dignity or Order that any Prieſt is in, if he conform him not to follow Chriſt and his Apoſtles in willful poverty, and in other Heavenly Virtues,</hi> &amp;c. <hi>though ſuch a one be named a Prieſt, yet he is no more but a Prieſt in Name,</hi> &amp;c. Auguſtine, Gregory, Chriſoſtom, <hi>and</hi> Lincoln <hi>approveth of the ſame, with much more to the ſame effect; which would be too large to Tranſcribe: yet he further ſaith, that Tythes were given in the Old Law to the</hi> Levites, <hi>and to the Prieſts that came of the Lineage of</hi> Levi; <hi>but our Prieſts came not of the Lineage of</hi> Levi, <hi>but of the Lineage of</hi> Judah, <hi>to which</hi> Judah <hi>no Tythes were promiſed to be given, and therefore</hi> Paul <hi>ſaith, ſince the Prieſthood is changed from the generation of</hi> Levi <hi>to the generation of</hi> Judah, <hi>it is neceſſary that changing alſo be made of the Law; ſo that Prieſts live now without Tythes, and other Duties that they claim, following Chriſt and his Apoſtles in willful pover<g ref="char:EOLhyphen"/>ty, as they have given them example. For ſince Chriſt lived all the time of his preaching by pure Alms of the People, and by example of him his Apoſtles lived in the ſame wiſe, or elſe by their own labour as above-ſaid.</hi> I find in <hi>Euſebius lib.</hi> the 5th <hi>cap.</hi> 16. mentioning <hi>Apollonius</hi> againſt <hi>Montanus</hi> ſaying thus, <hi>That</hi> Montanus <hi>fed the maintainers of his Doctrine with Sums of Money, and great hire to Preach, which was for<g ref="char:EOLhyphen"/>bidden in the holy Scripture, that the Prophets ſhould take hire, Chriſt commanded his Diſciples to take no mans Gold, or Silver, or Apparel, or two Coats; and by their fruits you ſhall know them; and further ſaith, that if hire be taken by a Prophet, he is no longer a Prophet; and</hi> Matth. 7.15, 16. Chriſt bids <hi>beware of falſe Prophets, &amp;c.</hi> and ſaith, <hi>by their fruits you ſhall know them which come unto you in Sheeps-cloathing, but inwardly they are ravening Wolves, tearing the poor Sheeps Fleece a pieces</hi> to cloath themſelves: and they are alſo compared <hi>to Thorns and Thiſtles,</hi> rending and ſcattering their poor Neighbours, <hi>&amp;c. Matth.</hi> 10.8. Chriſt ſaith to the true <hi>Prophets and Miniſters, freely ye have re<g ref="char:EOLhyphen"/>ceived,
+<pb n="7" facs="tcp:98817:5"/>freely give,</hi> but the falſe take maintenance by force, ſo by their fruits you may know them, and <hi>Luke</hi> 2.46, 47. ſeveral marks more are ſet down by which they may be known; <hi>as going in long Robes, loving Salutation in the Market-place, higheſt Seats in the Aſsemblies, and chief Roomes at Feaſts, and devour Widows Houſes,</hi> (which ſaith the Margent) by mentioning, is the goods and ſubſtance; and thus by their fruits you may know them ſaith Chriſt.</p>
+            <p>
+               <hi>Wo be to the Paſtors that deſtroy and ſcatter the Sheep of my Paſture ſaith the Lord,</hi> Jer. 23.1. <hi>Therefore thus ſaith the Lord God of</hi> Iſrael <hi>againſt the Pastors that feed my People. Ye have ſcattered my flock and driven them away,</hi> ver. 2. <hi>I have not ſent theſe Prophets, yet they ran: I have not ſpoken to them, yet they Propheſied,</hi> ver. 21. <hi>Behold I am against them that Propheſie falſe Dreams, ſaith the Lord, and do cauſe my People to erre by their lies, and by their lightneſs, yet I ſent them not, nor commanded them: therefore they ſhall not profit this People at all ſaith the Lord,</hi> ver. 32. <hi>Whoſe poſſeſſors ſlay them and hold themſelves not guilty: and they that ſell them, ſay, Bleſsed be the Lord, for I am rich: and their own Shepherds pity them not,</hi> Zecha. 11.5. <hi>The Stone which the builders rejested, the ſame is become the head of the corner; this is the Lords doing, &amp;c.</hi> Matth. 21.42. <hi>And whoſoever ſhall fall on this Stone, ſhall be broken: but on whomſoever it ſhall fall, it will grinde him to powder.</hi>
+            </p>
+            <p>Theſe who deſire to know why we refuſe to pay Tythes, may be more largely ſatisfied in theſe Books of <hi>Antony Pearſon</hi> of Tythes.</p>
+            <p>
+               <hi>Francis Howgill,</hi> the Great caſe of Tythes, and Maintenance once more revived.</p>
+            <p>
+               <hi>T. R. William Gibſon</hi> Tythes ended by Chriſt, theſe were never Anſwered yet that we hear of.</p>
+            <closer>
+               <signed>JAMES PETERSON.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:98817:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
